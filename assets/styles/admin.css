@@ -1,3 +1,17 @@
 .column-average {
   white-space: nowrap;
 }
+
+.manage-column.sorted > a {
+  padding: 0;
+}
+
+.update-users-average-order-meta,
+.users-progress {
+  display: inline-block;
+  margin-left: 5px;
+}
+
+.users-progress.hidden {
+  display: none;
+}
